@@ -1,2 +1,3 @@
 # hello-world
-Just test ;)
+
+This is just dummy file.
